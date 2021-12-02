@@ -1,0 +1,8 @@
+currency:
+  service:
+    url: "http://localhost:9561"
+    appid: 308d9fc793734782be53255732c4f933
+gif:
+  service:
+    url: "http://localhost:9561"
+    appid: ZfCK5y6hUnrOFOz84olUCI7bqJver9Th
